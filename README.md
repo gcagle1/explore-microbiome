@@ -5,7 +5,7 @@
 * Launch Jupyter notebook and open the Replanting Experiment notebook
 * Change the file paths in the **uploads** section of notebook file to your local file paths.
 
-The main goal of this notebook is to provide a template to reproduce analysis, and share the analysis with others. The advantage is being able to examine multiple variables, save the figures and data, and keep track of what you did all at the same time. Using ipython notebook facilitates keeping track of and sharing analysis, much like a lab notebook.
+The main goal of this notebook is to provide a template to reproduce analysis, and share the analysis with others. One awesome advantage of Jupyter notebooks is being able to examine multiple variables, save figures and data, and keep track of what you did all at the same time. Using ipython notebook facilitates keeping track of and sharing analysis, much like a lab notebook.
 
 Currently, the notebook can run non-phylogenetic diversity analysis due to a compatibility issue with FastTree2 and sci-kit bio that I am still working out.
 
@@ -14,11 +14,11 @@ The notebook will produce:
 * downloadable PCA graphics with user/meta-data interaction
 * an ANOSIM analysis with user/meta-data interaction
 
-Interacting with the data from a drop-down menu:
+####Interacting with the data from a drop-down menu:
 
 ![screenshot1][1]
 
-Saving the PCOA graphics:
+####Saving the PCOA graphics:
 
 ![screenshot2][2]
 
