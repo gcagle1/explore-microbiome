@@ -3,7 +3,7 @@
 #### To run the example:
 * Download zip of this repo
 * Launch Jupyter notebook and open the Replanting Experiment notebook
-* Change the file paths in the **uploads** section of notebook file to your local file paths.
+* Change the file paths in the **uploads** section of notebook file to your local paths to the example data
 
 The main goal of this notebook is to provide a template to reproduce analysis, and share the analysis with others. One awesome advantage of Jupyter notebooks is being able to examine multiple variables, save figures and data, and keep track of what you did all at the same time. Using ipython notebook facilitates keeping track of and sharing analysis, much like a lab notebook.
 
